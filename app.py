@@ -35,15 +35,23 @@ def analyze_symptoms():
 
         for keyword, department in knowledge_base.items():
             if keyword in user_symptoms:
-                return jsonify({"department": department}), 200
+                response = jsonify({"department": department})
+                response.headers["Content-Type"] = "application/json"
+                return response, 200
+
         
-        # Default fallback department
-        return jsonify({"department": "General Physician"}), 200
+        # Default fallback department         
+        response = jsonify({"department": "General Physician"})
+        response.headers["Content-Type"] = "application/json"
+        return response, 200
+
 
     except Exception as e:
         # Always return valid JSON even on backend errors
-        return jsonify({"department": "General Physician"}), 200
-
+        response = jsonify({"department": "General Physician"})
+        response.headers["Content-Type"] = "application/json"
+        return response, 200
+    
 if __name__ == '__main__':
     import os
     port = int(os.environ.get("PORT", 8080))
