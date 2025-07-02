@@ -1,0 +1,1426 @@
+[
+{"title": "Influenza (seasonal)", "url": "https://www.who.int/news-room/fact-sheets/detail/influenza-seasonal", "department": "General Physician"},
+{"title": "Common cold", "url": "https://www.who.int/news-room/fact-sheets/detail/common-cold", "department": "General Physician"},
+{"title": "Fever", "url": "https://www.who.int/news-room/fact-sheets/detail/fever", "department": "General Physician"},
+{"title": "Cardiovascular diseases (CVDs)", "url": "https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-cvds", "department": "Cardiology"},
+{"title": "Hypertension", "url": "https://www.who.int/news-room/fact-sheets/detail/hypertension", "department": "Cardiology"},
+{"title": "Rheumatic heart disease", "url": "https://www.who.int/news-room/fact-sheets/detail/rheumatic-heart-disease", "department": "Cardiology"},
+{"title": "Congenital disorders", "url": "https://www.who.int/news-room/fact-sheets/detail/congenital-disorders", "department": "Cardiology"},
+{"title": "Stroke", "url": "https://www.who.int/news-room/fact-sheets/detail/stroke", "department": "Cardiology"},
+{"title": "Pre-eclampsia", "url": "https://www.who.int/news-room/fact-sheets/detail/pre-eclampsia", "department": "Cardiology"},
+{"title": "Heart failure", "url": "https://www.who.int/news-room/fact-sheets/detail/heart-failure", "department": "Cardiology"},
+{"title": "Arrhythmias", "url": "https://www.who.int/news-room/fact-sheets/detail/arrhythmias", "department": "Cardiology"},
+{"title": "Cholesterol", "url": "https://www.who.int/news-room/fact-sheets/detail/cholesterol", "department": "Cardiology"},
+{"title": "Heart attack", "url": "https://www.who.int/news-room/fact-sheets/detail/heart-attack", "department": "Cardiology"},
+{"title": "Epilepsy", "url": "https://www.who.int/news-room/fact-sheets/detail/epilepsy", "department": "Neurology"},
+{"title": "Dementia", "url": "https://www.who.int/news-room/fact-sheets/detail/dementia", "department": "Neurology"},
+{"title": "Migraine and other headache disorders", "url": "https://www.who.int/news-room/fact-sheets/detail/migraine-and-other-headache-disorders", "department": "Neurology"},
+{"title": "Multiple sclerosis", "url": "https://www.who.int/news-room/fact-sheets/detail/multiple-sclerosis", "department": "Neurology"},
+{"title": "Parkinson disease", "url": "https://www.who.int/news-room/fact-sheets/detail/parkinson-disease", "department": "Neurology"},
+{"title": "Neural tube defects", "url": "https://www.who.int/news-room/fact-sheets/detail/neural-tube-defects", "department": "Neurology"},
+{"title": "Post-traumatic stress disorder", "url": "https://www.who.int/news-room/fact-sheets/detail/post-traumatic-stress-disorder", "department": "Neurology"},
+{"title": "Cerebral palsy", "url": "https://www.who.int/news-room/fact-sheets/detail/cerebral-palsy", "department": "Neurology"},
+{"title": "Stroke", "url": "https://www.who.int/news-room/fact-sheets/detail/stroke", "department": "Neurology"},
+{"title": "Alzheimer's disease", "url": "https://www.who.int/news-room/fact-sheets/detail/alzheimers-disease", "department": "Neurology"},
+{"title": "Depressive disorder (depression)", "url": "https://www.who.int/news-room/fact-sheets/detail/depressive-disorder-depression", "department": "Psychiatry"},
+{"title": "Mental disorders", "url": "https://www.who.int/news-room/fact-sheets/detail/mental-disorders", "department": "Psychiatry"},
+{"title": "Anxiety disorders", "url": "https://www.who.int/news-room/fact-sheets/detail/anxiety-disorders", "department": "Psychiatry"},
+{"title": "Bipolar disorder", "url": "https://www.who.int/news-room/fact-sheets/detail/bipolar-disorder", "department": "Psychiatry"},
+{"title": "Suicide", "url": "https://www.who.int/news-room/fact-sheets/detail/suicide", "department": "Psychiatry"},
+{"title": "Schizophrenia", "url": "https://www.who.int/news-room/fact-sheets/detail/schizophrenia", "department": "Psychiatry"},
+{"title": "Autism", "url": "https://www.who.int/news-room/fact-sheets/detail/autism", "department": "Psychiatry"},
+{"title": "Substance use disorders", "url": "https://www.who.int/news-room/fact-sheets/detail/substance-use-disorders", "department": "Psychiatry"},
+{"title": "Post-traumatic stress disorder", "url": "https://www.who.int/news-room/fact-sheets/detail/post-traumatic-stress-disorder", "department": "Psychiatry"},
+{"title": "Obsessive-compulsive disorder", "url": "https://www.who.int/news-room/fact-sheets/detail/obsessive-compulsive-disorder", "department": "Psychiatry"},
+{"title": "Asthma", "url": "https://www.who.int/news-room/fact-sheets/detail/asthma", "department": "Pulmonology"},
+{"title": "Chronic obstructive pulmonary disease (COPD)", "url": "https://www.who.int/news-room/fact-sheets/detail/chronic-obstructive-pulmonary-disease-copd", "department": "Pulmonology"},
+{"title": "Pneumonia in children", "url": "https://www.who.int/news-room/fact-sheets/detail/pneumonia-in-children", "department": "Pulmonology"},
+{"title": "Tuberculosis", "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis", "department": "Pulmonology"},
+{"title": "Lung cancer", "url": "https://www.who.int/news-room/fact-sheets/detail/lung-cancer", "department": "Pulmonology"},
+{"title": "COVID-19", "url": "https://www.who.int/news-room/fact-sheets/detail/covid-19", "department": "Pulmonology"},
+{"title": "Influenza (avian and other zoonotic)", "url": "https://www.who.int/news-room/fact-sheets/detail/influenza-avian-and-other-zoonotic", "department": "Pulmonology"},
+{"title": "Bronchitis", "url": "https://www.who.int/news-room/fact-sheets/detail/bronchitis", "department": "Pulmonology"},
+{"title": "Respiratory syncytial virus (RSV)", "url": "https://www.who.int/news-room/fact-sheets/detail/respiratory-syncytial-virus-rsv", "department": "Pulmonology"},
+{"title": "Air pollution", "url": "https://www.who.int/news-room/fact-sheets/detail/air-pollution", "department": "Pulmonology"},
+{"title": "Diarrhoeal disease", "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease", "department": "Gastroenterology"},
+{"title": "Hepatitis A", "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-a", "department": "Gastroenterology"},
+{"title": "Hepatitis B", "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-b", "department": "Gastroenterology"},
+{"title": "Hepatitis C", "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-c", "department": "Gastroenterology"},
+{"title": "Cholera", "url": "https://www.who.int/news-room/fact-sheets/detail/cholera", "department": "Gastroenterology"},
+{"title": "Gastroenteritis", "url": "https://www.who.int/news-room/fact-sheets/detail/gastroenteritis", "department": "Gastroenterology"},
+{"title": "Liver cancer", "url": "https://www.who.int/news-room/fact-sheets/detail/liver-cancer", "department": "Gastroenterology"},
+{"title": "Colorectal cancer", "url": "https://www.who.int/news-room/fact-sheets/detail/colorectal-cancer", "department": "Gastroenterology"},
+{"title": "Amoebiasis", "url": "https://www.who.int/news-room/fact-sheets/detail/amoebiasis", "department": "Gastroenterology"},
+{"title": "Celiac disease", "url": "https://www.who.int/news-room/fact-sheets/detail/celiac-disease", "department": "Gastroenterology"},
+{"title": "Polycystic ovary syndrome", "url": "https://www.who.int/news-room/fact-sheets/detail/polycystic-ovary-syndrome", "department": "Gynecology"},
+{"title": "Endometriosis", "url": "https://www.who.int/news-room/fact-sheets/detail/endometriosis", "department": "Gynecology"},
+{"title": "Cervical cancer", "url": "https://www.who.int/news-room/fact-sheets/detail/cervical-cancer", "department": "Gynecology"},
+{"title": "Menopause", "url": "https://www.who.int/news-room/fact-sheets/detail/menopause", "department": "Gynecology"},
+{"title": "Adolescent pregnancy", "url": "https://www.who.int/news-room/fact-sheets/detail/adolescent-pregnancy", "department": "Gynecology"},
+{"title": "Infertility", "url": "https://www.who.int/news-room/fact-sheets/detail/infertility", "department": "Gynecology"},
+{"title": "Pregnancy complications", "url": "https://www.who.int/news-room/fact-sheets/detail/pregnancy-complications", "department": "Gynecology"},
+{"title": "Preeclampsia", "url": "https://www.who.int/news-room/fact-sheets/detail/preeclampsia", "department": "Gynecology"},
+{"title": "Emergency contraception", "url": "https://www.who.int/news-room/fact-sheets/detail/emergency-contraception", "department": "Gynecology"},
+{"title": "Female genital mutilation", "url": "https://www.who.int/news-room/fact-sheets/detail/female-genital-mutilation", "department": "Gynecology"},
+{"title": "Scabies", "url": "https://www.who.int/news-room/fact-sheets/detail/scabies", "department": "Dermatology"},
+{"title": "Ringworm (tinea)", "url": "https://www.who.int/news-room/fact-sheets/detail/ringworm-tinea", "department": "Dermatology"},
+{"title": "Skin infections", "url": "https://www.who.int/news-room/fact-sheets/detail/skin-infections", "department": "Dermatology"},
+{"title": "Psoriasis", "url": "https://www.who.int/news-room/fact-sheets/detail/psoriasis", "department": "Dermatology"},
+{"title": "Eczema", "url": "https://www.who.int/news-room/fact-sheets/detail/eczema", "department": "Dermatology"},
+{"title": "Burns", "url": "https://www.who.int/news-room/fact-sheets/detail/burns", "department": "Dermatology"},
+{"title": "Allergic dermatitis", "url": "https://www.who.int/news-room/fact-sheets/detail/allergic-dermatitis", "department": "Dermatology"},
+{"title": "Sporotrichosis", "url": "https://www.who.int/news-room/fact-sheets/detail/sporotrichosis", "department": "Dermatology"},
+{"title": "Leprosy", "url": "https://www.who.int/news-room/fact-sheets/detail/leprosy", "department": "Dermatology"},
+{"title": "Vitiligo", "url": "https://www.who.int/news-room/fact-sheets/detail/vitiligo", "department": "Dermatology"},
+{"title": "Osteoarthritis", "url": "https://www.who.int/news-room/fact-sheets/detail/osteoarthritis", "department": "Orthopedics"},
+{"title": "Fragility fractures", "url": "https://www.who.int/news-room/fact-sheets/detail/fragility-fractures", "department": "Orthopedics"},
+{"title": "Falls", "url": "https://www.who.int/news-room/fact-sheets/detail/falls", "department": "Orthopedics"},
+{"title": "Low back pain", "url": "https://www.who.int/news-room/fact-sheets/detail/low-back-pain", "department": "Orthopedics"},
+{"title": "Musculoskeletal health", "url": "https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-health", "department": "Orthopedics"},
+{"title": "Spinal cord injury", "url": "https://www.who.int/news-room/fact-sheets/detail/spinal-cord-injury", "department": "Orthopedics"},
+{"title": "Bone tumors", "url": "https://www.who.int/news-room/fact-sheets/detail/bone-tumors", "department": "Orthopedics"},
+{"title": "Hip fractures", "url": "https://www.who.int/news-room/fact-sheets/detail/hip-fractures", "department": "Orthopedics"},
+{"title": "Gout", "url": "https://www.who.int/news-room/fact-sheets/detail/gout", "department": "Orthopedics"},
+{"title": "Bone infections", "url": "https://www.who.int/news-room/fact-sheets/detail/bone-infections", "department": "Orthopedics"},
+{"title": "Blindness and vision impairment", "url": "https://www.who.int/news-room/fact-sheets/detail/blindness-and-vision-impairment", "department": "Ophthalmology"},
+{"title": "Trachoma", "url": "https://www.who.int/news-room/fact-sheets/detail/trachoma", "department": "Ophthalmology"},
+{"title": "Cataract", "url": "https://www.who.int/news-room/fact-sheets/detail/cataract", "department": "Ophthalmology"},
+{"title": "Glaucoma", "url": "https://www.who.int/news-room/fact-sheets/detail/glaucoma", "department": "Ophthalmology"},
+{"title": "Diabetic retinopathy", "url": "https://www.who.int/news-room/fact-sheets/detail/diabetic-retinopathy", "department": "Ophthalmology"},
+{"title": "Eye injuries", "url": "https://www.who.int/news-room/fact-sheets/detail/eye-injuries", "department": "Ophthalmology"},
+{"title": "Age-related macular degeneration", "url": "https://www.who.int/news-room/fact-sheets/detail/age-related-macular-degeneration", "department": "Ophthalmology"},
+{"title": "Refractive errors", "url": "https://www.who.int/news-room/fact-sheets/detail/refractive-errors", "department": "Ophthalmology"},
+{"title": "Dry eyes", "url": "https://www.who.int/news-room/fact-sheets/detail/dry-eyes", "department": "Ophthalmology"},
+{"title": "Night blindness", "url": "https://www.who.int/news-room/fact-sheets/detail/night-blindness", "department": "Ophthalmology"},
+
+  {
+    "title": "A1C",
+    "url": "https://medlineplus.gov/a1c.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Abscess",
+    "url": "https://medlineplus.gov/abscess.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Acute Bronchitis",
+    "url": "https://medlineplus.gov/acutebronchitis.html",
+    "department": "Pulmonology"
+  },
+  {
+    "title": "Acute Bronchitis; Chronic Bronchitis",
+    "url": "https://medlineplus.gov/acutebronchitis;chronicbronchitis.html",
+    "department": "Pulmonology"
+  },
+  {
+    "title": "Acute Flaccid Myelitis",
+    "url": "https://medlineplus.gov/acuteflaccidmyelitis.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Adhesions",
+    "url": "https://medlineplus.gov/adhesions.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Alcohol",
+    "url": "https://medlineplus.gov/alcohol.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Alcohol Use Disorder (AUD)",
+    "url": "https://medlineplus.gov/alcoholusedisorder(aud).html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Alcohol Use Disorder (AUD) Treatment",
+    "url": "https://medlineplus.gov/alcoholusedisorder(aud)treatment.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Alcohol Use Disorder (AUD); Drug Use and Addiction; Drugs and Young People",
+    "url": "https://medlineplus.gov/alcoholusedisorder(aud);druguseandaddiction;drugsandyoungpeople.html",
+    "department": "Psychiatry"
+  },
+  {
+    "title": "Alcohol; Alcohol Use Disorder (AUD)",
+    "url": "https://medlineplus.gov/alcohol;alcoholusedisorder(aud).html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Alpha-1 Antitrypsin Deficiency",
+    "url": "https://medlineplus.gov/alpha-1antitrypsindeficiency.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Alzheimer's Disease",
+    "url": "https://medlineplus.gov/alzheimersdisease.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Amino Acid Metabolism Disorders",
+    "url": "https://medlineplus.gov/aminoacidmetabolismdisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Amyloidosis",
+    "url": "https://medlineplus.gov/amyloidosis.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Anabolic Steroids",
+    "url": "https://medlineplus.gov/anabolicsteroids.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Animal Bites",
+    "url": "https://medlineplus.gov/animalbites.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Animal Diseases and Your Health",
+    "url": "https://medlineplus.gov/animaldiseasesandyourhealth.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Ankle Injuries and Disorders",
+    "url": "https://medlineplus.gov/ankleinjuriesanddisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Anthrax",
+    "url": "https://medlineplus.gov/anthrax.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Antibiotic Resistance",
+    "url": "https://medlineplus.gov/antibioticresistance.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Antibiotic Resistance; Staphylococcal Infections",
+    "url": "https://medlineplus.gov/antibioticresistance;staphylococcalinfections.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Antibiotics",
+    "url": "https://medlineplus.gov/antibiotics.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Antidepressants",
+    "url": "https://medlineplus.gov/antidepressants.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Anxiety",
+    "url": "https://medlineplus.gov/anxiety.html",
+    "department": "Psychiatry"
+  },
+  {
+    "title": "Arm Injuries and Disorders",
+    "url": "https://medlineplus.gov/arminjuriesanddisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Aspergillosis",
+    "url": "https://medlineplus.gov/aspergillosis.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Ataxia Telangiectasia",
+    "url": "https://medlineplus.gov/ataxiatelangiectasia.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Athlete's Foot",
+    "url": "https://medlineplus.gov/athletesfoot.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Attention Deficit Hyperactivity Disorder",
+    "url": "https://medlineplus.gov/attentiondeficithyperactivitydisorder.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Autism Spectrum Disorder",
+    "url": "https://medlineplus.gov/autismspectrumdisorder.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Back Injuries",
+    "url": "https://medlineplus.gov/backinjuries.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Bacterial Infections",
+    "url": "https://medlineplus.gov/bacterialinfections.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Bed Bugs",
+    "url": "https://medlineplus.gov/bedbugs.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Bereavement",
+    "url": "https://medlineplus.gov/bereavement.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Biopsy",
+    "url": "https://medlineplus.gov/biopsy.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Bipolar Disorder",
+    "url": "https://medlineplus.gov/bipolardisorder.html",
+    "department": "Psychiatry"
+  },
+  {
+    "title": "Bird Flu",
+    "url": "https://medlineplus.gov/birdflu.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Birth Defects",
+    "url": "https://medlineplus.gov/birthdefects.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Bleeding",
+    "url": "https://medlineplus.gov/bleeding.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Blood Glucose",
+    "url": "https://medlineplus.gov/bloodglucose.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Body Lice",
+    "url": "https://medlineplus.gov/bodylice.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Body Weight",
+    "url": "https://medlineplus.gov/bodyweight.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Body Weight; Obesity",
+    "url": "https://medlineplus.gov/bodyweight;obesity.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Bone Infections",
+    "url": "https://medlineplus.gov/boneinfections.html",
+    "department": "Orthopedics"
+  },
+  {
+    "title": "Botulism",
+    "url": "https://medlineplus.gov/botulism.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Brachial Plexus Injuries",
+    "url": "https://medlineplus.gov/brachialplexusinjuries.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Brain Malformations",
+    "url": "https://medlineplus.gov/brainmalformations.html",
+    "department": "Neurology"
+  },
+  {
+    "title": "Brain Tumors",
+    "url": "https://medlineplus.gov/braintumors.html",
+    "department": "Neurology"
+  },
+  {
+    "title": "Bruises",
+    "url": "https://medlineplus.gov/bruises.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Burns",
+    "url": "https://medlineplus.gov/burns.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "C. diff Infections",
+    "url": "https://medlineplus.gov/c.diffinfections.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "COVID-19 (Coronavirus Disease 2019)",
+    "url": "https://medlineplus.gov/covid-19(coronavirusdisease2019).html",
+    "department": "General Physician"
+  },
+  {
+    "title": "COVID-19 Vaccines",
+    "url": "https://medlineplus.gov/covid-19vaccines.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "CPR",
+    "url": "https://medlineplus.gov/cpr.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Campylobacter Infections",
+    "url": "https://medlineplus.gov/campylobacterinfections.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Carbohydrate Metabolism Disorders",
+    "url": "https://medlineplus.gov/carbohydratemetabolismdisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Cat Scratch Disease",
+    "url": "https://medlineplus.gov/catscratchdisease.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Celiac Disease",
+    "url": "https://medlineplus.gov/celiacdisease.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Cellulitis",
+    "url": "https://medlineplus.gov/cellulitis.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Cerebral Palsy",
+    "url": "https://medlineplus.gov/cerebralpalsy.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Cervical Cancer",
+    "url": "https://medlineplus.gov/cervicalcancer.html",
+    "department": "Gynecology"
+  },
+  {
+    "title": "Cervical Cancer Screening",
+    "url": "https://medlineplus.gov/cervicalcancerscreening.html",
+    "department": "Gynecology"
+  },
+  {
+    "title": "Chagas Disease",
+    "url": "https://medlineplus.gov/chagasdisease.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Charcot-Marie-Tooth Disease",
+    "url": "https://medlineplus.gov/charcot-marie-toothdisease.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Chest Injuries and Disorders",
+    "url": "https://medlineplus.gov/chestinjuriesanddisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Chiari Malformation",
+    "url": "https://medlineplus.gov/chiarimalformation.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Chickenpox",
+    "url": "https://medlineplus.gov/chickenpox.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Chikungunya",
+    "url": "https://medlineplus.gov/chikungunya.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Child Abuse",
+    "url": "https://medlineplus.gov/childabuse.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Child Abuse; Elder Abuse; Intimate Partner Violence",
+    "url": "https://medlineplus.gov/childabuse;elderabuse;intimatepartnerviolence.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Child Behavior Disorders",
+    "url": "https://medlineplus.gov/childbehaviordisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Child Mental Health",
+    "url": "https://medlineplus.gov/childmentalhealth.html",
+    "department": "Psychiatry"
+  },
+  {
+    "title": "Childhood Brain Tumors",
+    "url": "https://medlineplus.gov/childhoodbraintumors.html",
+    "department": "Neurology"
+  },
+  {
+    "title": "Childhood Vaccines",
+    "url": "https://medlineplus.gov/childhoodvaccines.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Chlamydia Infections",
+    "url": "https://medlineplus.gov/chlamydiainfections.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Choking",
+    "url": "https://medlineplus.gov/choking.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Cholera",
+    "url": "https://medlineplus.gov/cholera.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Chronic Bronchitis",
+    "url": "https://medlineplus.gov/chronicbronchitis.html",
+    "department": "Pulmonology"
+  },
+  {
+    "title": "Cleaning, Disinfecting, and Sanitizing",
+    "url": "https://medlineplus.gov/cleaning,disinfecting,andsanitizing.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Cleft Lip and Palate",
+    "url": "https://medlineplus.gov/cleftlipandpalate.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Cloning",
+    "url": "https://medlineplus.gov/cloning.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Club Drugs",
+    "url": "https://medlineplus.gov/clubdrugs.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Club Drugs; Drug Use and Addiction",
+    "url": "https://medlineplus.gov/clubdrugs;druguseandaddiction.html",
+    "department": "Psychiatry"
+  },
+  {
+    "title": "Club Drugs; Methamphetamine",
+    "url": "https://medlineplus.gov/clubdrugs;methamphetamine.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Cocaine",
+    "url": "https://medlineplus.gov/cocaine.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Cold Sores",
+    "url": "https://medlineplus.gov/coldsores.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Colonic Polyps",
+    "url": "https://medlineplus.gov/colonicpolyps.html",
+    "department": "Gastroenterology"
+  },
+  {
+    "title": "Color Blindness",
+    "url": "https://medlineplus.gov/colorblindness.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Common Cold",
+    "url": "https://medlineplus.gov/commoncold.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Compulsive Gambling",
+    "url": "https://medlineplus.gov/compulsivegambling.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Concussion",
+    "url": "https://medlineplus.gov/concussion.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Congenital Heart Defects",
+    "url": "https://medlineplus.gov/congenitalheartdefects.html",
+    "department": "Cardiology"
+  },
+  {
+    "title": "Coping with Chronic Illness",
+    "url": "https://medlineplus.gov/copingwithchronicillness.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Coping with Disasters",
+    "url": "https://medlineplus.gov/copingwithdisasters.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Craniofacial Abnormalities",
+    "url": "https://medlineplus.gov/craniofacialabnormalities.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Cryptosporidiosis",
+    "url": "https://medlineplus.gov/cryptosporidiosis.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Cystic Fibrosis",
+    "url": "https://medlineplus.gov/cysticfibrosis.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Cytomegalovirus Infections",
+    "url": "https://medlineplus.gov/cytomegalovirusinfections.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Dehydration",
+    "url": "https://medlineplus.gov/dehydration.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Delirium",
+    "url": "https://medlineplus.gov/delirium.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Dementia",
+    "url": "https://medlineplus.gov/dementia.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Dengue",
+    "url": "https://medlineplus.gov/dengue.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Depression",
+    "url": "https://medlineplus.gov/depression.html",
+    "department": "Psychiatry"
+  },
+  {
+    "title": "Developmental Disabilities",
+    "url": "https://medlineplus.gov/developmentaldisabilities.html",
+    "department": "Psychiatry"
+  },
+  {
+    "title": "Diabetes",
+    "url": "https://medlineplus.gov/diabetes.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Diabetes Complications",
+    "url": "https://medlineplus.gov/diabetescomplications.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Diabetes Insipidus",
+    "url": "https://medlineplus.gov/diabetesinsipidus.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Diabetes Medicines",
+    "url": "https://medlineplus.gov/diabetesmedicines.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Diabetes Type 1",
+    "url": "https://medlineplus.gov/diabetestype1.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Diabetes Type 2",
+    "url": "https://medlineplus.gov/diabetestype2.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Diabetes and Pregnancy",
+    "url": "https://medlineplus.gov/diabetesandpregnancy.html",
+    "department": "Gynecology"
+  },
+  {
+    "title": "Diabetes in Children and Teens",
+    "url": "https://medlineplus.gov/diabetesinchildrenandteens.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Diabetes; Diabetes Type 2",
+    "url": "https://medlineplus.gov/diabetes;diabetestype2.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Diabetic Diet",
+    "url": "https://medlineplus.gov/diabeticdiet.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Diabetic Eye Problems",
+    "url": "https://medlineplus.gov/diabeticeyeproblems.html",
+    "department": "Ophthalmology"
+  },
+  {
+    "title": "Diabetic Foot",
+    "url": "https://medlineplus.gov/diabeticfoot.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Diabetic Heart Disease",
+    "url": "https://medlineplus.gov/diabeticheartdisease.html",
+    "department": "Cardiology"
+  },
+  {
+    "title": "Diabetic Kidney Problems",
+    "url": "https://medlineplus.gov/diabetickidneyproblems.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Diabetic Nerve Problems",
+    "url": "https://medlineplus.gov/diabeticnerveproblems.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Diphtheria",
+    "url": "https://medlineplus.gov/diphtheria.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Dislocated Shoulder",
+    "url": "https://medlineplus.gov/dislocatedshoulder.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Dislocations",
+    "url": "https://medlineplus.gov/dislocations.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Down Syndrome",
+    "url": "https://medlineplus.gov/downsyndrome.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Drowning",
+    "url": "https://medlineplus.gov/drowning.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Drug Use and Addiction",
+    "url": "https://medlineplus.gov/druguseandaddiction.html",
+    "department": "Psychiatry"
+  },
+  {
+    "title": "Drugs and Young People",
+    "url": "https://medlineplus.gov/drugsandyoungpeople.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Dual Diagnosis",
+    "url": "https://medlineplus.gov/dualdiagnosis.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Dwarfism",
+    "url": "https://medlineplus.gov/dwarfism.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "E-Cigarettes",
+    "url": "https://medlineplus.gov/e-cigarettes.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "E. Coli Infections",
+    "url": "https://medlineplus.gov/e.coliinfections.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Eating Disorders",
+    "url": "https://medlineplus.gov/eatingdisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Ebola",
+    "url": "https://medlineplus.gov/ebola.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Ehlers-Danlos Syndrome",
+    "url": "https://medlineplus.gov/ehlers-danlossyndrome.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Elbow Injuries and Disorders",
+    "url": "https://medlineplus.gov/elbowinjuriesanddisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Elder Abuse",
+    "url": "https://medlineplus.gov/elderabuse.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Electrical Injuries",
+    "url": "https://medlineplus.gov/electricalinjuries.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Eye Injuries",
+    "url": "https://medlineplus.gov/eyeinjuries.html",
+    "department": "Ophthalmology"
+  },
+  {
+    "title": "Facial Injuries and Disorders",
+    "url": "https://medlineplus.gov/facialinjuriesanddisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Family History",
+    "url": "https://medlineplus.gov/familyhistory.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Fetal Alcohol Spectrum Disorders",
+    "url": "https://medlineplus.gov/fetalalcoholspectrumdisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Fever",
+    "url": "https://medlineplus.gov/fever.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Fifth Disease",
+    "url": "https://medlineplus.gov/fifthdisease.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Finger Injuries and Disorders",
+    "url": "https://medlineplus.gov/fingerinjuriesanddisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "First Aid",
+    "url": "https://medlineplus.gov/firstaid.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "First Aid; Wounds and Injuries",
+    "url": "https://medlineplus.gov/firstaid;woundsandinjuries.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Flu",
+    "url": "https://medlineplus.gov/flu.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Foot Injuries and Disorders",
+    "url": "https://medlineplus.gov/footinjuriesanddisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Foreign Bodies",
+    "url": "https://medlineplus.gov/foreignbodies.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Fractures",
+    "url": "https://medlineplus.gov/fractures.html",
+    "department": "Orthopedics"
+  },
+  {
+    "title": "Fragile X Syndrome",
+    "url": "https://medlineplus.gov/fragilexsyndrome.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Friedreich Ataxia",
+    "url": "https://medlineplus.gov/friedreichataxia.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Frostbite",
+    "url": "https://medlineplus.gov/frostbite.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Frostbite; Hypothermia",
+    "url": "https://medlineplus.gov/frostbite;hypothermia.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Fungal Infections",
+    "url": "https://medlineplus.gov/fungalinfections.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "G6PD Deficiency",
+    "url": "https://medlineplus.gov/g6pddeficiency.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Gastroenteritis",
+    "url": "https://medlineplus.gov/gastroenteritis.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Gaucher Disease",
+    "url": "https://medlineplus.gov/gaucherdisease.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Genes and Gene Therapy",
+    "url": "https://medlineplus.gov/genesandgenetherapy.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Genetic Brain Disorders",
+    "url": "https://medlineplus.gov/geneticbraindisorders.html",
+    "department": "Neurology"
+  },
+  {
+    "title": "Genetic Counseling",
+    "url": "https://medlineplus.gov/geneticcounseling.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Genetic Disorders",
+    "url": "https://medlineplus.gov/geneticdisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Genetic Testing",
+    "url": "https://medlineplus.gov/genetictesting.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Genital Herpes",
+    "url": "https://medlineplus.gov/genitalherpes.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Genital Warts",
+    "url": "https://medlineplus.gov/genitalwarts.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Germs and Hygiene",
+    "url": "https://medlineplus.gov/germsandhygiene.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Giardia Infections",
+    "url": "https://medlineplus.gov/giardiainfections.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Gonorrhea",
+    "url": "https://medlineplus.gov/gonorrhea.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "H1N1 Flu (Swine Flu)",
+    "url": "https://medlineplus.gov/h1n1flu(swineflu).html",
+    "department": "General Physician"
+  },
+  {
+    "title": "HIV",
+    "url": "https://medlineplus.gov/hiv.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "HIV and Infections",
+    "url": "https://medlineplus.gov/hivandinfections.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "HIV: PrEP and PEP",
+    "url": "https://medlineplus.gov/hiv:prepandpep.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "HPV",
+    "url": "https://medlineplus.gov/hpv.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Haemophilus Infections",
+    "url": "https://medlineplus.gov/haemophilusinfections.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Hand Injuries and Disorders",
+    "url": "https://medlineplus.gov/handinjuriesanddisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Hantavirus Infections",
+    "url": "https://medlineplus.gov/hantavirusinfections.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Head Injuries",
+    "url": "https://medlineplus.gov/headinjuries.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Head Lice",
+    "url": "https://medlineplus.gov/headlice.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Heat Illness",
+    "url": "https://medlineplus.gov/heatillness.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Heel Injuries and Disorders",
+    "url": "https://medlineplus.gov/heelinjuriesanddisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Helicobacter Pylori Infections",
+    "url": "https://medlineplus.gov/helicobacterpyloriinfections.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Hemochromatosis",
+    "url": "https://medlineplus.gov/hemochromatosis.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Hemophilia",
+    "url": "https://medlineplus.gov/hemophilia.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Hemorrhagic Fevers",
+    "url": "https://medlineplus.gov/hemorrhagicfevers.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Hepatitis",
+    "url": "https://medlineplus.gov/hepatitis.html",
+    "department": "Gastroenterology"
+  },
+  {
+    "title": "Hepatitis A",
+    "url": "https://medlineplus.gov/hepatitisa.html",
+    "department": "Gastroenterology"
+  },
+  {
+    "title": "Hepatitis B",
+    "url": "https://medlineplus.gov/hepatitisb.html",
+    "department": "Gastroenterology"
+  },
+  {
+    "title": "Hepatitis C",
+    "url": "https://medlineplus.gov/hepatitisc.html",
+    "department": "Gastroenterology"
+  },
+  {
+    "title": "Heroin",
+    "url": "https://medlineplus.gov/heroin.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Heroin; Opioids and Opioid Use Disorder (OUD)",
+    "url": "https://medlineplus.gov/heroin;opioidsandopioidusedisorder(oud).html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Herpes Simplex",
+    "url": "https://medlineplus.gov/herpessimplex.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Hip Injuries and Disorders",
+    "url": "https://medlineplus.gov/hipinjuriesanddisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Histoplasmosis",
+    "url": "https://medlineplus.gov/histoplasmosis.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "How to Improve Mental Health",
+    "url": "https://medlineplus.gov/howtoimprovementalhealth.html",
+    "department": "Psychiatry"
+  },
+  {
+    "title": "How to Prevent Diabetes",
+    "url": "https://medlineplus.gov/howtopreventdiabetes.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Huntington's Disease",
+    "url": "https://medlineplus.gov/huntingtonsdisease.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Hydrocephalus",
+    "url": "https://medlineplus.gov/hydrocephalus.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Hyperglycemia",
+    "url": "https://medlineplus.gov/hyperglycemia.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Hypoglycemia",
+    "url": "https://medlineplus.gov/hypoglycemia.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Hypothermia",
+    "url": "https://medlineplus.gov/hypothermia.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Impetigo",
+    "url": "https://medlineplus.gov/impetigo.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Infection Control",
+    "url": "https://medlineplus.gov/infectioncontrol.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Infections and Pregnancy",
+    "url": "https://medlineplus.gov/infectionsandpregnancy.html",
+    "department": "Gynecology"
+  },
+  {
+    "title": "Infectious Arthritis",
+    "url": "https://medlineplus.gov/infectiousarthritis.html",
+    "department": "Orthopedics"
+  },
+  {
+    "title": "Infectious Diseases",
+    "url": "https://medlineplus.gov/infectiousdiseases.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Infectious Mononucleosis",
+    "url": "https://medlineplus.gov/infectiousmononucleosis.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Inhalants",
+    "url": "https://medlineplus.gov/inhalants.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Inhalation Injuries",
+    "url": "https://medlineplus.gov/inhalationinjuries.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Insect Bites and Stings",
+    "url": "https://medlineplus.gov/insectbitesandstings.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Intimate Partner Violence",
+    "url": "https://medlineplus.gov/intimatepartnerviolence.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Itching",
+    "url": "https://medlineplus.gov/itching.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Jaw Injuries and Disorders",
+    "url": "https://medlineplus.gov/jawinjuriesanddisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Kaposi Sarcoma",
+    "url": "https://medlineplus.gov/kaposisarcoma.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Klinefelter Syndrome",
+    "url": "https://medlineplus.gov/klinefeltersyndrome.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Knee Injuries and Disorders",
+    "url": "https://medlineplus.gov/kneeinjuriesanddisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Lactose Intolerance",
+    "url": "https://medlineplus.gov/lactoseintolerance.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Learning Disabilities",
+    "url": "https://medlineplus.gov/learningdisabilities.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Leg Injuries and Disorders",
+    "url": "https://medlineplus.gov/leginjuriesanddisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Legionnaires' Disease",
+    "url": "https://medlineplus.gov/legionnairesdisease.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Leishmaniasis",
+    "url": "https://medlineplus.gov/leishmaniasis.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Leukodystrophies",
+    "url": "https://medlineplus.gov/leukodystrophies.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Lipid Metabolism Disorders",
+    "url": "https://medlineplus.gov/lipidmetabolismdisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Listeria Infections",
+    "url": "https://medlineplus.gov/listeriainfections.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Liver Cancer",
+    "url": "https://medlineplus.gov/livercancer.html",
+    "department": "Gastroenterology"
+  },
+  {
+    "title": "Lung Cancer",
+    "url": "https://medlineplus.gov/lungcancer.html",
+    "department": "Pulmonology"
+  },
+  {
+    "title": "Lyme Disease",
+    "url": "https://medlineplus.gov/lymedisease.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "MRSA",
+    "url": "https://medlineplus.gov/mrsa.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Malaria",
+    "url": "https://medlineplus.gov/malaria.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Marfan Syndrome",
+    "url": "https://medlineplus.gov/marfansyndrome.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Marijuana",
+    "url": "https://medlineplus.gov/marijuana.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Measles",
+    "url": "https://medlineplus.gov/measles.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Memory",
+    "url": "https://medlineplus.gov/memory.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Meningitis",
+    "url": "https://medlineplus.gov/meningitis.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Meningococcal Disease",
+    "url": "https://medlineplus.gov/meningococcaldisease.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Mental Disorders",
+    "url": "https://medlineplus.gov/mentaldisorders.html",
+    "department": "Psychiatry"
+  },
+  {
+    "title": "Mental Health",
+    "url": "https://medlineplus.gov/mentalhealth.html",
+    "department": "Psychiatry"
+  },
+  {
+    "title": "Mental Health; Older Adult Mental Health",
+    "url": "https://medlineplus.gov/mentalhealth;olderadultmentalhealth.html",
+    "department": "Psychiatry"
+  },
+  {
+    "title": "Mesothelioma",
+    "url": "https://medlineplus.gov/mesothelioma.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Metabolic Disorders",
+    "url": "https://medlineplus.gov/metabolicdisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Metabolic Syndrome",
+    "url": "https://medlineplus.gov/metabolicsyndrome.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Metabolic Syndrome; Prediabetes",
+    "url": "https://medlineplus.gov/metabolicsyndrome;prediabetes.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Methamphetamine",
+    "url": "https://medlineplus.gov/methamphetamine.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Mild Cognitive Impairment",
+    "url": "https://medlineplus.gov/mildcognitiveimpairment.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Mitochondrial Diseases",
+    "url": "https://medlineplus.gov/mitochondrialdiseases.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Mood Disorders",
+    "url": "https://medlineplus.gov/mooddisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Mosquito Bites",
+    "url": "https://medlineplus.gov/mosquitobites.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Mpox",
+    "url": "https://medlineplus.gov/mpox.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Multiple Myeloma",
+    "url": "https://medlineplus.gov/multiplemyeloma.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Mumps",
+    "url": "https://medlineplus.gov/mumps.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Muscular Dystrophy",
+    "url": "https://medlineplus.gov/musculardystrophy.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+    "url": "https://medlineplus.gov/myalgicencephalomyelitischronicfatiguesyndrome.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Mycobacterial Infections",
+    "url": "https://medlineplus.gov/mycobacterialinfections.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Neck Injuries and Disorders",
+    "url": "https://medlineplus.gov/neckinjuriesanddisorders.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Neural Tube Defects",
+    "url": "https://medlineplus.gov/neuraltubedefects.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Neuroblastoma",
+    "url": "https://medlineplus.gov/neuroblastoma.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Neurofibromatosis",
+    "url": "https://medlineplus.gov/neurofibromatosis.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Newborn Screening",
+    "url": "https://medlineplus.gov/newbornscreening.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Norovirus Infections",
+    "url": "https://medlineplus.gov/norovirusinfections.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Obesity",
+    "url": "https://medlineplus.gov/obesity.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Obesity in Children",
+    "url": "https://medlineplus.gov/obesityinchildren.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Obsessive-Compulsive Disorder",
+    "url": "https://medlineplus.gov/obsessive-compulsivedisorder.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Older Adult Mental Health",
+    "url": "https://medlineplus.gov/olderadultmentalhealth.html",
+    "department": "Psychiatry"
+  },
+  {
+    "title": "Opioid Overdose",
+    "url": "https://medlineplus.gov/opioidoverdose.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Opioid Use Disorder (OUD) Treatment",
+    "url": "https://medlineplus.gov/opioidusedisorder(oud)treatment.html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Opioids and Opioid Use Disorder (OUD)",
+    "url": "https://medlineplus.gov/opioidsandopioidusedisorder(oud).html",
+    "department": "General Physician"
+  },
+  {
+    "title": "Osteogenesis Imperfecta",
+    "url": "https://medlineplus.gov/osteogenesisimperfecta.html",
+    "department": "General Physician"
+  }
+]

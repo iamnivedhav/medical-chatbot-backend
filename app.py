@@ -1,58 +1,49 @@
 from flask import Flask, request, jsonify
+from sentence_transformers import SentenceTransformer, util
+import json
+import os
 
+# Initialize Flask app
 app = Flask(__name__)
 
-knowledge_base = {
-    "chest pain": "Cardiology",
-    "breathlessness": "Cardiology",
-    "palpitations": "Cardiology",
-    "rash": "Dermatology",
-    "itching": "Dermatology",
-    "redness": "Dermatology",
-    "headache": "Neurology",
-    "seizures": "Neurology",
-    "numbness": "Neurology",
-    "abdominal pain": "Gastroenterology",
-    "bloating": "Gastroenterology",
-    "back pain": "Orthopedics",
-    "joint stiffness": "Orthopedics",
-    "cough": "Pulmonology",
-    "wheezing": "Pulmonology",
-    "shortness of breath": "Pulmonology",
-    "sore throat": "ENT",
-    "ear pain": "ENT",
-    "blurry vision": "Ophthalmology",
-    "eye pain": "Ophthalmology",
-    "depression": "Psychiatry",
-    "anxiety": "Psychiatry"
-}
+# Load the RAG dataset
+with open("rag_dataset.jsonl", "r", encoding="utf-8") as f:
+    rag_data = [json.loads(line) for line in f]
 
-@app.route('/analyze_symptoms', methods=['POST'])
-def analyze_symptoms():
+# Load embedding model
+model = SentenceTransformer("all-MiniLM-L6-v2")
+
+# Pre-compute RAG embeddings
+rag_embeddings = model.encode(
+    ["; ".join(entry["symptoms"]) for entry in rag_data],
+    convert_to_tensor=True
+)
+
+# Inference logic
+def recommend_department(user_input):
+    query_embedding = model.encode(user_input, convert_to_tensor=True)
+    similarities = util.cos_sim(query_embedding, rag_embeddings)[0]
+    best_match_index = int(similarities.argmax())
+    best_entry = rag_data[best_match_index]
+    return best_entry["department"]
+
+# API endpoint
+@app.route("/analyze_symptoms", methods=["POST"])
+def analyze():
     try:
         data = request.get_json(force=True)
-        user_symptoms = data.get("symptoms", "").lower()
+        symptoms_text = data.get("symptoms", "").strip()
 
-        for keyword, department in knowledge_base.items():
-            if keyword in user_symptoms:
-                response = jsonify({"department": department})
-                response.headers["Content-Type"] = "application/json"
-                return response, 200
+        if not symptoms_text:
+            return jsonify({"department": "General Physician"}), 200
 
-        
-        # Default fallback department         
-        response = jsonify({"department": "General Physician"})
-        response.headers["Content-Type"] = "application/json"
-        return response, 200
-
+        department = recommend_department(symptoms_text)
+        return jsonify({"department": department}), 200
 
     except Exception as e:
-        # Always return valid JSON even on backend errors
-        response = jsonify({"department": "General Physician"})
-        response.headers["Content-Type"] = "application/json"
-        return response, 200
-    
-if __name__ == '__main__':
-    import os
+        return jsonify({"department": "General Physician"}), 200
+
+# For local testing or Render
+if __name__ == "__main__":
     port = int(os.environ.get("PORT", 8080))
-    app.run(host='0.0.0.0', port=port)
+    app.run(host="0.0.0.0", port=port)
